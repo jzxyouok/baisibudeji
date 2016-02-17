@@ -15,6 +15,7 @@
 		3C07B79A1C73FF190016480C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C07B7981C73FF190016480C /* LaunchScreen.storyboard */; };
 		3C07B7A51C73FF190016480C /* _________Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C07B7A41C73FF190016480C /* _________Tests.m */; };
 		3C07B7B01C73FF190016480C /* _________UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C07B7AF1C73FF190016480C /* _________UITests.m */; };
+		3C07B7BF1C74003E0016480C /* 发士大夫撒打算ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C07B7BE1C74003E0016480C /* 发士大夫撒打算ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		3C07B7AB1C73FF190016480C /* 百思本届的姐姐及诶UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "百思本届的姐姐及诶UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C07B7AF1C73FF190016480C /* _________UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_________UITests.m"; sourceTree = "<group>"; };
 		3C07B7B11C73FF190016480C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C07B7BD1C74003E0016480C /* 发士大夫撒打算ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "发士大夫撒打算ViewController.h"; sourceTree = "<group>"; };
+		3C07B7BE1C74003E0016480C /* 发士大夫撒打算ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "发士大夫撒打算ViewController.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				3C07B78E1C73FF180016480C /* AppDelegate.m */,
 				3C07B7901C73FF180016480C /* ViewController.h */,
 				3C07B7911C73FF180016480C /* ViewController.m */,
+				3C07B7BD1C74003E0016480C /* 发士大夫撒打算ViewController.h */,
+				3C07B7BE1C74003E0016480C /* 发士大夫撒打算ViewController.m */,
 				3C07B7931C73FF180016480C /* Main.storyboard */,
 				3C07B7961C73FF180016480C /* Assets.xcassets */,
 				3C07B7981C73FF190016480C /* LaunchScreen.storyboard */,
@@ -273,6 +278,7 @@
 				3C07B7921C73FF180016480C /* ViewController.m in Sources */,
 				3C07B78F1C73FF180016480C /* AppDelegate.m in Sources */,
 				3C07B78C1C73FF180016480C /* main.m in Sources */,
+				3C07B7BF1C74003E0016480C /* 发士大夫撒打算ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
